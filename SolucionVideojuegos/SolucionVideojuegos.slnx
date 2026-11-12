@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Juegoteca.Biblioteca/Juegoteca.Biblioteca.csproj" />
+  <Project Path="Juegoteca.Consola/Juegoteca.Consola.csproj" />
+  <Project Path="Juegoteca.Tests/Juegoteca.Tests.csproj" />
+</Solution>
